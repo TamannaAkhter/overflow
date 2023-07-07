@@ -1,0 +1,80 @@
+.color{
+	height:100rem;
+background-color: #001a00;
+}
+.color3{
+	color:ghostwhite;
+	display:inline;
+		
+}
+.color1{
+	background-color: #009933;
+}
+.color2{
+font-style: italic;
+}
+.container{
+	overflow:hidden;
+}
+.blog{
+	float:left;
+	width:60%;
+	height:50rem;
+    background-color: #00cc00;
+    border:solid 5px #800033;
+    box-sizing: border-box;
+}
+.text{
+font-style: italic;
+	font-size:40px ;
+	color:floralwhite;
+}
+.im{
+	width:590px;
+	height:790px;
+	}
+.contact{
+	width:40%;
+	float:right;
+	height:50rem;
+    background-color: #66ff66;
+    border:solid 5px #ff66cc ;
+    box-sizing: border-box;
+}
+.footer{
+	height:10rem;
+	background-color: #009933;
+	border:solid 10px seagreen;
+}
+.text1{
+font-style: revert-layer;
+font-size: 25px;
+
+}
+.container2{
+	border:5px solid #339966;
+}
+.te2{
+height:35rem;
+width:33.33%;
+
+}
+.te{
+	float:left;
+color: #cc0066;
+}
+.photo{
+float:left;
+
+}
+.pho{
+	width:495px;
+}
+.te1{
+float:right;
+color:lightpink;
+}
+.color7{
+	font-style: italic;
+	font-size:38px ;
+}
